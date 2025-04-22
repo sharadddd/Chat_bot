@@ -1,0 +1,13 @@
+prefix=F:/chatbot_BCN/venv/Library
+exec_prefix=F:/chatbot_BCN/venv/Library
+libdir=F:/chatbot_BCN/venv/Library/lib
+sharedlibdir=F:/chatbot_BCN/venv/Library/lib
+includedir=F:/chatbot_BCN/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

@@ -1,0 +1,17 @@
+Question: What is LangChain?
+Answer: LangChain is a framework for building applications powered by language models.
+
+Question: What is Ollama?
+Answer: Ollama is a fine-tuned language model designed for specific applications.
+
+Question: How do I train data?
+Answer: Training involves creating datasets, preprocessing them, and fine-tuning a model.
+
+Question: What is Life?
+Answer: Be Quit and see the people they will show the real Color.
+Question: What is Python?
+Answer: Python is a programming language used for various applications.
+Question: What is Python?
+Answer: Python is a programming language used for various applications.
+Question: What is Python?
+Answer: Python is a programming language used for various applications.
